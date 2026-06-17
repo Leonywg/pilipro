@@ -151,11 +151,11 @@ dependencies:
   # 代理
   # system_proxy: ^0.1.0
   # pip
-  # floating: ^3.0.0
-  floating:
-    git:
-      url: https://github.com/bggRGjQaUbCoE/floating.git
-      ref: version-3
+  floating: ^3.0.0
+  #floating:
+  #  git:
+  #    url: https://github.com/bggRGjQaUbCoE/floating.git
+  #    ref: version-3
   # html解析
   html: ^0.15.4
   # html渲染
@@ -214,11 +214,11 @@ dependencies:
       path: packages/window_manager
       ref: main
   tray_manager: ^0.5.1
-  # file_picker: ^10.3.3
-  file_picker:
-    git:
-      url: https://github.com/bggRGjQaUbCoE/flutter_file_picker.git
-      ref: mod
+  file_picker: ^10.3.3
+  #file_picker:
+  #  git:
+  #    url: https://github.com/bggRGjQaUbCoE/flutter_file_picker.git
+  #   ref: mod
   super_sliver_list:
     git:
       url: https://github.com/bggRGjQaUbCoE/super_sliver_list.git
